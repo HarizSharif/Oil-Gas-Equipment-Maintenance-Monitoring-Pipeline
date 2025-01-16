@@ -100,6 +100,7 @@ The solution follows a modern data lakehouse architecture with three main compon
 4. Gold layer normalization and dimensional modeling
   ![Date Pipieline Azure Databricks](https://github.com/user-attachments/assets/046a09f2-f8ed-405a-b66e-600f983c552e)
 5. Data warehouse loading in Snowflake
+![Silver layer to Snowflake](https://github.com/user-attachments/assets/380f4a52-7593-4b83-b483-a555f2df4c14)
 6. Power BI dashboard refresh
 
 ## Security
