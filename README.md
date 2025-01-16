@@ -99,7 +99,4 @@ The solution uses a modern data lakehouse architecture with the following compon
 - Industry-standard security protocols
 
 ## Contact
-For any questions or issues, please contact the data engineering team.
-
----
-*Note: This is a production system monitoring critical oil & gas equipment. Please ensure all changes are properly tested before deployment.*
+For any questions or issues, please email to hariz.sharif93@gmail.com.
